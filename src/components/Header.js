@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 const Header = () => {
   return (
     <header>
-      <Link to="/">YouTube Clone</Link>
+      <Link to="/">YouTube Cchannelne</Link>
       <input type="text" placeholder="Search..." />
     </header>
   );
