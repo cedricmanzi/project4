@@ -1,0 +1,21 @@
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+  background-color: #ff0000;
+  color: white;
+}
+
+header input {
+  padding: 5px;
+}
+
+div {
+  padding: 20px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
